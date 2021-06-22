@@ -28,4 +28,9 @@ footer {
   padding-left: 22px;
   text-align: center;
   border: 1px black solid;
+  background-color: rgb(216, 216, 216);
+}
+
+td {
+  border: 1px black solid;
 }
