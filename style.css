@@ -1,6 +1,6 @@
 * {
   font-family: Roboto, sans-serif;
-  color: #272525;
+  color: rgb(39, 37, 37);
   line-height: 1.5;
   font-size: medium;
 }
@@ -21,4 +21,10 @@ body {
 
 main {
   margin-top: 128px;
+}
+
+footer {
+    margin: 1px 1px 1px 1px;
+    padding: 2px 2px 2px 2px;
+    border: 1px rgb(0, 0, 0) solid;
 }
