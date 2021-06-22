@@ -31,6 +31,19 @@ footer {
   background-color: rgb(216, 216, 216);
 }
 
-td {
-  border: 1px black solid;
+/* Referência pra estilização do .lado-esqerdo e .lado-direito.
+Source: https://www.geeksforgeeks.org/how-to-float-three-div-side-by-side-using-css/ */
+
+.lado-esquerdo {
+  width: 45%;
+  float: left;
+}
+
+.lado-direito {
+  width: 45%;
+  float: right;
+}
+
+#licoes_aprendidas {
+  clear: both;
 }
