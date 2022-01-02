@@ -13,7 +13,7 @@
 - Utilizar CSS para adicionar estilo e posicionar elementos.
 
 ## Desenvolvimento
-Página HTML estilizada com CSS.
+[Página](https://weltonthomasferreira.github.io/trybe-project-lessons-learned/) HTML estilizada com CSS.
 
 
 ![Imagem do site desenvolvido](./readme/images/print-screen-site.png "Site")
