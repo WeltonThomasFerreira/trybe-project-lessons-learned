@@ -16,7 +16,7 @@
 Página HTML estilizada com CSS.
 
 
-![alt text](./readme/images/print-screen-site.png "Site")
+![Imagem do site desenvolvido](./readme/images/print-screen-site.png "Site")
 
 ## Resultados
 
